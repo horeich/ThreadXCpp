@@ -1,0 +1,35 @@
+{
+    "cmake.additionalCompilerSearchDirs": [
+        "C:/WorkDir/VSARM/arm-none-eabi-12_3_1/bin"
+    ],
+    "cmake.cacheInit": null,
+    "cmake.clearOutputBeforeBuild": true,
+    "cmake.generator": "Ninja",
+    "files.associations": {
+        "stm32l4xx_hal_conf.h": "c",
+        "core_cm4.h": "c",
+        "stm32l476xx.h": "c",
+        "stm32l4xx.h": "c",
+        "stm32l4xx_hal.h": "c",
+        "system_stm32l4xx.h": "c",
+        "uart.h": "c",
+        "stm32l4xx_ll_usart.h": "c",
+        "serial_api_hal.h": "c",
+        "serial_api.h": "c",
+        "peripheral_pins.h": "c",
+        "peripheral_names.h": "c",
+        "pinmap.h": "c",
+        "stm32l4xx_ll_gpio.h": "c",
+        "pin_names.h": "c",
+        "tx_timer.h": "c",
+        "cmsis_os2.h": "c",
+        "tx_api.h": "c",
+        "tx_user.h": "c",
+        "new": "cpp",
+        "cmsis_compiler.h": "c"
+    },
+    "dotnet.defaultSolution": "disable",
+
+    "VSARM": "C:/WorkDir/VSARM",
+    "stm32-for-vscode.openOCDPath": false
+}

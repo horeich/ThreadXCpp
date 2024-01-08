@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"cmake.additionalCompilerSearchDirs": [
+			"C:/Users/Andi/arm-none-eabi-12_3_1/bin"
+		],
+		"cmake.clearOutputBeforeBuild": true,
+		"files.associations": {
+			"stm32l4xx_hal_conf.h": "c"
+		}
+	}
+}
